@@ -1,2 +1,20 @@
-# test-fps-game
- A basic fps game mainly used to test out features and code in Godot game Engine
+# Test FPS Game [Name Pending]
+
+A basic fps game used to test features and code snippets.
+
+# New Features!
+
+  - Bullet Holes now despawn after ellapsed time
+
+### Tools
+
+ - Godot Game Engine
+ 
+### Todos
+
+ - Physics
+
+License
+----
+
+MIT
