@@ -1,0 +1,304 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://mp5/mp5.dae" type="PackedScene" id=1]
+
+[node name="mp5" instance=ExtResource( 1 )]
+
+[node name="Point" parent="." index="0"]
+visible = false
+layers = 2
+
+[node name="Plane_001" parent="." index="1"]
+visible = false
+layers = 2
+
+[node name="Circle_006" parent="." index="2"]
+layers = 2
+
+[node name="Circle_008" parent="." index="3"]
+layers = 2
+
+[node name="Cylinder_007" parent="." index="4"]
+layers = 2
+
+[node name="Cylinder_010" parent="." index="5"]
+layers = 2
+
+[node name="Plane_007" parent="." index="6"]
+visible = false
+layers = 2
+
+[node name="Circle_022" parent="." index="7"]
+layers = 2
+
+[node name="Point_001" parent="." index="8"]
+visible = false
+layers = 2
+
+[node name="_" parent="." index="9"]
+layers = 2
+
+[node name="Circle_001" parent="." index="10"]
+layers = 2
+
+[node name="Plane_000" parent="." index="11"]
+layers = 2
+
+[node name="Plane_003" parent="." index="12"]
+layers = 2
+
+[node name="Point_002" parent="." index="13"]
+visible = false
+layers = 2
+
+[node name="Circle_004" parent="." index="14"]
+layers = 2
+
+[node name="Cube_014" parent="." index="15"]
+layers = 2
+
+[node name="Circle_005" parent="." index="16"]
+layers = 2
+
+[node name="Circle_007" parent="." index="17"]
+layers = 2
+
+[node name="Cylinder_000" parent="." index="18"]
+layers = 2
+
+[node name="Cylinder_001" parent="." index="19"]
+layers = 2
+
+[node name="Cylinder_002" parent="." index="20"]
+layers = 2
+
+[node name="Cube_015" parent="." index="21"]
+layers = 2
+
+[node name="Circle_009" parent="." index="22"]
+layers = 2
+
+[node name="Plane_012" parent="." index="23"]
+layers = 2
+
+[node name="Circle_013" parent="." index="24"]
+layers = 2
+
+[node name="Circle_014" parent="." index="25"]
+visible = false
+layers = 2
+
+[node name="Circle_015" parent="." index="26"]
+layers = 2
+
+[node name="Circle_024" parent="." index="27"]
+layers = 2
+
+[node name="corpo_principal_001" parent="." index="28"]
+layers = 2
+
+[node name="Plane_013" parent="." index="29"]
+layers = 2
+
+[node name="Plane_014" parent="." index="30"]
+layers = 2
+
+[node name="Cube_016" parent="." index="31"]
+layers = 2
+
+[node name="Plane_015" parent="." index="32"]
+layers = 2
+
+[node name="Circle_025" parent="." index="33"]
+layers = 2
+
+[node name="Cube_017" parent="." index="34"]
+layers = 2
+
+[node name="Cube_018" parent="." index="35"]
+layers = 2
+
+[node name="Cube_019" parent="." index="36"]
+layers = 2
+
+[node name="Cube_020" parent="." index="37"]
+layers = 2
+
+[node name="Cylinder_005" parent="." index="38"]
+layers = 2
+
+[node name="Torus_001" parent="." index="39"]
+layers = 2
+
+[node name="Cube_021" parent="." index="40"]
+layers = 2
+
+[node name="Cube_022" parent="." index="41"]
+layers = 2
+
+[node name="Cube_023" parent="." index="42"]
+layers = 2
+
+[node name="Cube_024" parent="." index="43"]
+layers = 2
+
+[node name="Circle_026" parent="." index="44"]
+visible = false
+layers = 2
+
+[node name="Cylinder_014" parent="." index="45"]
+layers = 2
+
+[node name="Cylinder_015" parent="." index="46"]
+layers = 2
+
+[node name="Plane_016" parent="." index="47"]
+layers = 2
+
+[node name="Cylinder_016" parent="." index="48"]
+layers = 2
+
+[node name="Cylinder_017" parent="." index="49"]
+visible = false
+layers = 2
+
+[node name="Circle_027" parent="." index="50"]
+layers = 2
+
+[node name="Circle_028" parent="." index="51"]
+layers = 2
+
+[node name="Cylinder_018" parent="." index="52"]
+layers = 2
+
+[node name="Cube_025" parent="." index="53"]
+layers = 2
+
+[node name="Cube_026" parent="." index="54"]
+layers = 2
+
+[node name="Cube_027" parent="." index="55"]
+visible = false
+layers = 2
+
+[node name="Plane_017" parent="." index="56"]
+layers = 2
+
+[node name="Circle_029" parent="." index="57"]
+layers = 2
+
+[node name="Circle_030" parent="." index="58"]
+layers = 2
+
+[node name="Circle_031" parent="." index="59"]
+layers = 2
+
+[node name="Cylinder_019" parent="." index="60"]
+layers = 2
+
+[node name="Plane_018" parent="." index="61"]
+layers = 2
+
+[node name="Plane_019" parent="." index="62"]
+layers = 2
+
+[node name="corpo_principal_002" parent="." index="63"]
+layers = 2
+
+[node name="punhal_001" parent="." index="64"]
+layers = 2
+
+[node name="Point_003" parent="." index="65"]
+visible = false
+layers = 2
+
+[node name="Point_004" parent="." index="66"]
+visible = false
+layers = 2
+
+[node name="Point_005" parent="." index="67"]
+visible = false
+layers = 2
+
+[node name="__001" parent="." index="68"]
+layers = 2
+
+[node name="Circle_000" parent="." index="69"]
+visible = false
+layers = 2
+
+[node name="Plane_005" parent="." index="70"]
+layers = 2
+
+[node name="Plane_020" parent="." index="71"]
+layers = 2
+
+[node name="Point_006" parent="." index="72"]
+visible = false
+layers = 2
+
+[node name="Circle_010" parent="." index="73"]
+layers = 2
+
+[node name="Cylinder_003" parent="." index="74"]
+visible = false
+layers = 2
+
+[node name="Plane_021" parent="." index="75"]
+layers = 2
+
+[node name="Circle_011" parent="." index="76"]
+visible = false
+layers = 2
+
+[node name="corpo_principal_000" parent="." index="77"]
+layers = 2
+
+[node name="Plane_022" parent="." index="78"]
+layers = 2
+
+[node name="Plane_023" parent="." index="79"]
+layers = 2
+
+[node name="Cube_000" parent="." index="80"]
+layers = 2
+
+[node name="Plane_024" parent="." index="81"]
+layers = 2
+
+[node name="Cylinder_004" parent="." index="82"]
+layers = 2
+
+[node name="Torus_002" parent="." index="83"]
+layers = 2
+
+[node name="Cylinder_006" parent="." index="84"]
+layers = 2
+
+[node name="Circle_012" parent="." index="85"]
+layers = 2
+
+[node name="Circle_017" parent="." index="86"]
+layers = 2
+
+[node name="Plane_025" parent="." index="87"]
+layers = 2
+
+[node name="Circle_018" parent="." index="88"]
+layers = 2
+
+[node name="Circle_019" parent="." index="89"]
+layers = 2
+
+[node name="Plane_026" parent="." index="90"]
+layers = 2
+
+[node name="Plane_027" parent="." index="91"]
+layers = 2
+
+[node name="punhal_002" parent="." index="92"]
+layers = 2
+
+[node name="Point_007" parent="." index="93"]
+visible = false
+layers = 2
