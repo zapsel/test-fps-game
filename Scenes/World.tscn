@@ -56,7 +56,7 @@ radius = 10.0
 height = 0.8
 
 [node name="CSGCylinder3" type="CSGCylinder" parent="Environment/Podium"]
-transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.6, 0 )
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00746489, 0.6, -0.0110037 )
 material_override = SubResource( 1 )
 use_collision = true
 radius = 7.0
